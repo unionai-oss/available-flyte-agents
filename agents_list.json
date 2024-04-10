@@ -1,0 +1,51 @@
+[
+  {
+    "Icon": "https://assets-global.website-files.com/64028677e7e50a208e0a56a8/6414b10812844ea9718bd599_63c4885f0d5e9242fafd30b6_sagemaker.svg",
+    "Title": "Amazon SageMaker",
+    "Description": "Train ML models on Sagemaker from within Flyte™.",
+    "Docs Link": "https://docs.union.ai/integrations/agents/sagemaker-agent/",
+    "Source Code": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-aws-sagemaker/flytekitplugins/awssagemaker_inference"
+  },
+  {
+    "Icon": "https://assets-global.website-files.com/64028677e7e50a208e0a56a8/6414b1097c8cb25eed7002b8_63c488018ec264e0885627d7_airflow-logo.svg",
+    "Title": "Airflow",
+    "Description": "Run an Airflow operator as a Flyte task.",
+    "Docs Link": "https://docs.union.ai/integrations/agents/airflow-agent/",
+    "Source Code": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-airflow/flytekitplugins/airflow"
+  },
+  {
+    "Icon": "https://assets-global.website-files.com/64028677e7e50a208e0a56a8/6414b103642fda2109b1d1de_63c48bacd4a4c3b0073cf4b6_google_bigquery-icon.svg",
+    "Title": "BigQuery",
+    "Description": "Query a BigQuery table.",
+    "Docs Link": "https://docs.union.ai/integrations/agents/bigquery-agent/",
+    "Source Code": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-bigquery/flytekitplugins/bigquery"
+  },
+  {
+    "Icon": "https://assets-global.website-files.com/64028677e7e50a208e0a56a8/65f8cbd9fa3403da5233e6a1_chatgpt-logo.svg",
+    "Title": "ChatGPT",
+    "Description": "Interact with ChatGPT.",
+    "Docs Link": "https://docs.union.ai/integrations/agents/chatgpt-agent/",
+    "Source Code": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-openai/flytekitplugins/openai"
+  },
+  {
+    "Icon": "https://assets-global.website-files.com/64028677e7e50a208e0a56a8/6414b112a4cf4c137d8d6932_63c4d72d95a3b881387d118f_Databricks.svg",
+    "Title": "Databricks",
+    "Description": "Submit Spark jobs to Databricks.",
+    "Docs Link": "https://docs.union.ai/integrations/agents/databricks-agent/",
+    "Source Code": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-spark/flytekitplugins/spark"
+  },
+  {
+    "Icon": "https://assets-global.website-files.com/64028677e7e50a208e0a56a8/65f8cc0d3ba6711e7f007d61_mmcloud_logo.png",
+    "Title": "Memory Machine Cloud",
+    "Description": "Run a task on MMCloud.",
+    "Docs Link": "https://docs.union.ai/integrations/agents/mmcloud-agent/",
+    "Source Code": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-mmcloud/flytekitplugins/mmcloud"
+  },
+  {
+    "Icon": "https://assets-global.website-files.com/64028677e7e50a208e0a56a8/6414b13ef334e909c9000664_63c8322cdddb883789b57ccd_snowflake-logo.svg",
+    "Title": "Snowflake",
+    "Description": "Query a Snowflake service.",
+    "Docs Link": "https://docs.union.ai/integrations/agents/snowflake-agent/",
+    "Source Code": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-snowflake/flytekitplugins/snowflake"
+  }
+]
