@@ -35,6 +35,13 @@
     "Source Code": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-spark/flytekitplugins/spark"
   },
   {
+    "Icon": "https://assets-global.website-files.com/64028677e7e50a208e0a56a8/661840221550118046e49874_File-Sensor.svg",
+    "Title": "File Sensor",
+    "Description": "Build event driven workflows.",
+    "Docs Link": "https://docs.union.ai/integrations/agents/file-sensor-agent/",
+    "Source Code": "https://github.com/flyteorg/flytekit/tree/master/flytekit/sensor"
+  },
+  {
     "Icon": "https://assets-global.website-files.com/64028677e7e50a208e0a56a8/65f8cc0d3ba6711e7f007d61_mmcloud_logo.png",
     "Title": "Memory Machine Cloud",
     "Description": "Run a task on MMCloud.",
